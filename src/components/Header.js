@@ -7,7 +7,7 @@ const Header = () => {
       <header className='bg-[#064094] pt-2'>
        <div className='flex justify-between items-center'>
         <div className=''>
-            <a href="#"> <img src={logo} className='w-auto h-[70px] max-w-full' alt="" /> </a>
+            <a href="#"> <img src={logo} className='w-[200px] h-[100px] max-w-full' alt="" /> </a>
         </div>
         <div>
             <ul className='-ml-[5px] -mr-[5px]'>
